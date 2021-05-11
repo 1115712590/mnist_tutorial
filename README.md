@@ -31,4 +31,4 @@ Please read [HEAR](EE369.md).
 | Q2 | BernoulliNB(default) | 81.63% | 81.90% |
 | Q3 | LinearSVC(default) | 97.68% | 87.10% |
 | Q4 | LinearSVC(adjusted) | 93.63% | 89.10%|
-| Q5 | 
+| Q5 | SimpleNet() | 99.36% | 98.95% |
