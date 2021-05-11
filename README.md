@@ -22,3 +22,13 @@ Code tested on following environments, other version should also work:
 
 # For students from SJTU
 Please read [HEAR](EE369.md).
+
+# Results of Experiments
+
+|  Question  | Model  | Train_Acc | Test_Acc |
+| :---------:|:------:|:--------:|:--------:|
+| Q1 | LogisticRegression(defalt) | 97.20% | 87.90% |
+| Q2 | BernoulliNB(default) | 81.63% | 81.90% |
+| Q3 | LinearSVC(default) | 97.68% | 87.10% |
+| Q4 | LinearSVC(adjusted) | 93.63% | 89.10%|
+| Q5 | 
