@@ -24,6 +24,7 @@ Code tested on following environments, other version should also work:
 Please read [HEAR](EE369.md).
 
 # Results of Experiments
+We use pytorch to solve Q5.
 
 |  Question  | Model  | Train_Acc | Test_Acc |
 | :---------:|:------:|:--------:|:--------:|
